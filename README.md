@@ -19,12 +19,12 @@ Esta iniciativa también es resultado de un proyecto final para el curso de prog
 
 ### User Experience:
 
-->Cómo te hace sentir la contingencia? #MoodCDMX
-—>Emoji selector
-——>Palabra que más describe al emoji (array de objetos)
-———>Botón de acción
-————>Reemplazo HTML con tarjeta (array de objetos): foto cdmx, quote medio ambiente, autor
-—————>Botones (WhatsApp, Twitter)
+ ->Cómo te hace sentir la contingencia? #MoodCDMX<br>
+ —>Emoji selector<br>
+ ——>Palabra que más describe al emoji (array de objetos)<br>
+ ———>Botón de acción<br>
+ ————>Reemplazo HTML con tarjeta (array de objetos): foto cdmx, quote medio ambiente, autor<br>
+ —————>Botones (WhatsApp, Twitter)<br>
 
 
 ### User Interface:
