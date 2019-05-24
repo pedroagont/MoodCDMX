@@ -4,18 +4,20 @@ Realizar una encuesta a ciudadanos de la CDMX sobre cuál es el emoji que más d
 
 Esta iniciativa también es resultado de un proyecto final para el curso de programación de Cinta Blanca en la escuela de desarrollo Dev.F Cancún que se llevó a cabo del 29 de abril al 24 de mayo del 2019.
 
-
-Debe incluir elementos de:
-
--HTML, CSS
--Grid, flex, Bootstrap
--Funciones en JS
--Arreglo de objetos
--Móvil
--Git/Github pages
+[![N|Solid](https://i.imgur.com/YaxdyY7.png)](https://nodesource.com/products/nsolid)
 
 
-User Experience:
+### Debe incluir elementos de:
+
+ - HTML, CSS
+ - Grid, flex, Bootstrap
+ - Funciones en JS
+ - Arreglo de objetos
+ - Móvil
+ - Git/Github pages
+
+
+### User Experience:
 
 ->Cómo te hace sentir la contingencia? #MoodCDMX
 —>Emoji selector
@@ -25,18 +27,21 @@ User Experience:
 —————>Botones (WhatsApp, Twitter)
 
 
-User Interface:
+### User Interface:
 
-——[PRIMERA ESTRUCTURA]
--		Título/Pregunta
--		Emoji selector
--	Palabra que más te describe
--		Botón de acción
--		Contador visitas
+###### ——[PRIMERA ESTRUCTURA]
+ - Título/Pregunta
+ - Emoji selector
+ - Palabra que más te describe
+ - Botón de acción
+ - Contador visitas
 
-——[SEGUNDA ESTRUCTURA]
--		#MoodCDMX
--		Foto instagram
--	Random quote medio ambiental
--		Autor/Descripción
--		Share buttons
+###### ——[SEGUNDA ESTRUCTURA]
+ - #MoodCDMX
+ - Foto instagram
+ - Random quote medio ambiental
+ - Autor/Descripción
+ - Share buttons
+
+### Layout de elementos
+[![N|Solid](https://i.imgur.com/DspuVXN.png)](https://nodesource.com/products/nsolid)
